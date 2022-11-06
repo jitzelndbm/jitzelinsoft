@@ -26,3 +26,4 @@ Welcome to my GitHub profile page
 [![NeoVim](https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io)
 [![Alpine Linux](https://img.shields.io/badge/Alpine-0D597F?style=for-the-badge&logo=Alpine%20linux&logoColor=white)](https://alpinelinux.org)
 [![Suckless -> dwm,dmenu,st](https://img.shields.io/badge/Suckless-1177AA?style=for-the-badge&logo=suckless&logoColor=white)](https://suckless.org)
+[![LineageOS (Android)](https://img.shields.io/badge/lineage-167C80?style=for-the-badge&logo=lineageos&logoColor=white)](https://lineageos.org)
