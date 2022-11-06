@@ -11,18 +11,18 @@ Welcome to my GitHub profile page
 - Markdown
 
 #### Interpreted:
-- [![React]](https://reactjs.org "React")
-- [![JavaScript]](https://en.wikipedia.org/wiki/JavaScript "JavaScript")  
+[![React]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black))](https://reactjs.org)
+
+- Javascript
 - POSIX Shell scripting
 - Python
 - Lua
-- [![Python]](https://www.python.org "Python")  
-
+- Python
 
 #### Compiled:
-- [![Rust]](https://www.rust-lang.org "Rust")  
-- [![Kotlin]](https://kotlinlang.org "Kotlin")
-- [![Android]](https://www.android.com "Android")
+- Rust
+- Kotlin
+- Android
 
 ### Tools I use:
 - NeoVim
