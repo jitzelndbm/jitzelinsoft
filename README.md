@@ -5,9 +5,9 @@ Welcome to my GitHub profile page
 ### languages I know / worked with:
 
 #### Not really a programming languages:
-- HTML
+[![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
 [![SCSS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.org)
-[![LaTeX](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white)(https://www.latex-project.org)
+[![LaTeX](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org)
 [![Markdown](https://img.shields.io/badge/markdown-000?style=for-the-badge&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 
 #### Interpreted:
