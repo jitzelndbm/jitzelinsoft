@@ -11,7 +11,7 @@ Welcome to my GitHub profile page
 - Markdown
 
 #### Interpreted:
-[![React]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black))](https://reactjs.org)
+[![React]([https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black])(https://reactjs.org)
 
 - Javascript
 - POSIX Shell scripting
