@@ -27,3 +27,7 @@ Welcome to my GitHub profile page
 [![Alpine Linux](https://img.shields.io/badge/Alpine-0D597F?style=for-the-badge&logo=Alpine%20linux&logoColor=white)](https://alpinelinux.org)
 [![Suckless -> dwm,dmenu,st](https://img.shields.io/badge/Suckless-1177AA?style=for-the-badge&logo=suckless&logoColor=white)](https://suckless.org)
 [![LineageOS (Android)](https://img.shields.io/badge/lineage-167C80?style=for-the-badge&logo=lineageos&logoColor=white)](https://lineageos.org)
+
+## Stats
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=toxicstic&show_icons=true&theme=transparent)
