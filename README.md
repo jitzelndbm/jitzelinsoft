@@ -11,8 +11,8 @@ Welcome to my GitHub profile page
 [![Markdown](https://img.shields.io/badge/markdown-000?style=for-the-badge&logo=markdown&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
 
 #### Interpreted:
-[![React](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
-[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
+[![React](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=ccc)](https://reactjs.org)
+[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333)](https://en.wikipedia.org/wiki/JavaScript)
 [![POSIX Shell](https://img.shields.io/badge/POSIX%20shell-FCC624?style=for-the-badge&logo=Linux&logoColor=333)](https://en.wikipedia.org/wiki/POSIX)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://python.org)
 [![Lua](https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://lua.org)
